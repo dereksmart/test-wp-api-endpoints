@@ -38,4 +38,4 @@ function test_wp_api_endpoints_render_main_page() {
 	<input type="text" id="wp-api-endpoint">
 	<button id="wp-api-endpoint-do-it">Do it!</button>
 	<div id="display-wp-api-endpoint-response"></div>
-<? }
+<?php }
